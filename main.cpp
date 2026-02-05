@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Pieces.h"
+#include "game/pieces/Pawn.h"
 using namespace std;
 
 int main() {
